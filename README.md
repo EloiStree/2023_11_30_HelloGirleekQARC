@@ -9,7 +9,7 @@ Suite à la demande de Girleek de partager mes connaissances à travers un court
 
 Julie Foulon | Context  
 ---|---
-[![image](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/assets/20149493/a2257721-3b10-4e55-8083-4961a93a3548)](https://youtu.be/3yGO8V5O3FQ) | ![image](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/assets/20149493/c624efc9-1dcb-4a9b-a63c-897b80196efe)  
+[![image](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/assets/20149493/a2257721-3b10-4e55-8083-4961a93a3548)](https://youtu.be/3yGO8V5O3FQ) | [![image](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/assets/20149493/c624efc9-1dcb-4a9b-a63c-897b80196efe)](https://girleek.tech)  
 
 ### Objectif de construction de l'atelier:  
 [![image](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/assets/20149493/2c1c5f52-bcea-4624-97c1-f759e0951976)](https://youtu.be/xupBsPASps0)  
