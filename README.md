@@ -1,18 +1,20 @@
 
 ![WIP](https://github.com/EloiStree/EloiStree/blob/master/Images/WIP.png)  
-
-----------------------
-
-# Hello Girleek QA RC
+   
+----------------------  
+  
+# Hello QA RC
 
 Suite à la demande de Girleek de partager mes connaissances à travers un court atelier d'initiation à Unity, je me suis mis au travail pour organiser cet atelier.
 
-![image](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/assets/20149493/c624efc9-1dcb-4a9b-a63c-897b80196efe)
-[![image](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/assets/20149493/2c1c5f52-bcea-4624-97c1-f759e0951976)](https://youtu.be/xupBsPASps0)
+Julie Foulon | Context  
+- | -  
+![image](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/assets/20149493/a2257721-3b10-4e55-8083-4961a93a3548) | ![image](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/assets/20149493/c624efc9-1dcb-4a9b-a63c-897b80196efe)
 
-
-https://youtu.be/xupBsPASps0
-
+### Objectif de construction de l'atelier:  
+[![image](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/assets/20149493/2c1c5f52-bcea-4624-97c1-f759e0951976)](https://youtu.be/xupBsPASps0)  
+https://youtu.be/xupBsPASps0  
+  
 **Bonjour à tous.**  
 **Bienvenue dans ce workshop :)**
 
