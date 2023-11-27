@@ -49,3 +49,11 @@ Shared this video: [https://youtu.be/xupBsPASps0](https://youtu.be/xupBsPASps0)
 [Workshop](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC ) [Project Code](https://github.com/EloiStree/2023_11_22_HelloCarRCUnity) [Shared this video](https://youtu.be/xupBsPASps0)
 
 
+---------------
+
+Liens amazon:
+  - RC car 360 : https://amzn.to/3qVa5nZ
+  - HC06 & Hc05 : https://amzn.to/46ssGZ2
+  - TTL USB: https://amzn.to/3JC14GZ
+
+
