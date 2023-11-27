@@ -285,10 +285,50 @@ Python:
   - https://github.com/EloiStree/2022_01_16_PythonHelloWorldJOMI/blob/main/HelloWorld.py 
 - Utiliser du MIDI pour simuler un joystick avec Raspberry pi pico
   - https://github.com/EloiStree/2023_09_21_SimulateJoystickInputSearch/blob/main/Code/2023_09_22_MidiToJoystickSimulation/code.py
- 
+  - 
+-----------------------------------------
+
+ ![image](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/assets/20149493/3aa6d3b8-205b-4754-a37e-e112482b1edf)
+
 - Roger Project:
   - https://github.com/EloiStree/PythonExperiments/tree/main/2023_09_19_Roger_RemappingWithPython
- 
+  - Video of the final solution: https://youtu.be/vaDfzMA_uFI
+    
+Download vJoy: https://softradar.com/vjoy/download/de/
+Download Python: https://www.python.org
+
+### Note, Some lib.
+
+```
+# Install Python:
+# https://www.python.org/downloads/
+
+# Install vJoy
+# Example :https://softradar.com/vjoy/download/de/
+
+
+# Install Python
+pip install pygame
+pip install pyvjoy
+pip install pyautogui
+pip install pynput
+pip install XInput-Python
+
+# Lib used:
+import pygame
+import sys
+import pyvjoy
+import pyautogui
+from pynput import keyboard
+import threading
+from pynput import mouse
+from XInput import *
+import ctypes
+import pyvjoy
+import pyautogui
+import time
+```
+
   
 -------------
 
