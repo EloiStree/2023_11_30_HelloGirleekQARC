@@ -83,7 +83,8 @@ https://www.youtube.com/watch?v=BYROSTN4SYE
 
 Premier version de mon outil de peche sur le son du microphone:  
 ![image](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/assets/20149493/bcee3386-2fc8-4caf-826b-72847935fef1)  
-https://www.youtube.com/watch?v=-egbDoz8nFc  
+- https://www.youtube.com/watch?v=-egbDoz8nFc  
+- https://gist.github.com/EloiStree/2153fceb104b0cea858d212ec839c2e3
 
 
 Controller un ordinateur avec Java depuis de l'UDP:  
