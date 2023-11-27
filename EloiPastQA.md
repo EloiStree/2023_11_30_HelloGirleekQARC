@@ -285,7 +285,22 @@ Python:
   - https://github.com/EloiStree/2022_01_16_PythonHelloWorldJOMI/blob/main/HelloWorld.py 
 - Utiliser du MIDI pour simuler un joystick avec Raspberry pi pico
   - https://github.com/EloiStree/2023_09_21_SimulateJoystickInputSearch/blob/main/Code/2023_09_22_MidiToJoystickSimulation/code.py
-  - 
+- Simuler un joystick avec un potentiometre digital:
+  - https://github.com/EloiStree/2023_06_26_MegaToJoystickAndTrigger/blob/main/X9C2DualJoystick_JoystickLeftTrigger/X9C2DualJoystick_JoystickLeftTrigger.ino 
+
+
+RC
+- Controller une voiture RC à quatre boutton avec du Bluetooth ou un Cable:
+  - Info: https://github.com/EloiStree/2023_06_28_RasperryPiPicoToRemoteControlRCExostCar
+  - Code: https://github.com/EloiStree/2023_06_28_RasperryPiPicoToRemoteControlRCExostCar/blob/main/RaspberryPiPico/code.py 
+  - HC06 & Hc05 : https://amzn.to/46ssGZ2
+  - TTL USB: https://amzn.to/3JC14GZ
+  - RC car 360 : https://amzn.to/3qVa5nZ
+
+X9C104
+![image](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/assets/20149493/8da71878-258a-42f4-8c02-077826befcee)
+
+
 -----------------------------------------
 
  ![image](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/assets/20149493/3aa6d3b8-205b-4754-a37e-e112482b1edf)
