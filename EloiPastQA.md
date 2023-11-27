@@ -104,7 +104,10 @@ https://www.youtube.com/watch?v=3kzSuUkx_cE
 Mon premier outil de macro pour le jeu   
 ![image](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/assets/20149493/da804e2c-d064-43c2-b0d3-f267cea7c7c6)  
 https://www.youtube.com/watch?v=Ke9hVS6-eb0  
-
+- Slide: https://docs.google.com/presentation/d/1OQ86IViuwANBX7rit7g-eCU-3m2qYsjexUcVn6zBvQQ/edit#slide=id.g54817d0d10_0_0     
+- PDF: [Macro Triggering.pdf](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/files/13481733/Macro.Triggering.pdf)  
+- https://github.com/EloiStree/2019_03_22_MacroTriggering/issues/4
+- Wiki: https://github.com/EloiStree/2019_03_22_MacroTriggering/wiki
 
 Control à distance par la 4G et le bluetooth:  
 ![image](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/assets/20149493/87178a76-41e8-476d-a2f7-28ccfea4b274)  
@@ -416,6 +419,25 @@ Utiliser Tap with Us ?
 Première version du OMI qui executait des scripts AHK comme des bats cachés:
 - https://gitlab.com/eloistree/2019_03_22_macrotrigger
 
+_Dans le context de Macro Trigger, il y avais des projects prochent_
+Wiki: https://github.com/EloiStree/2019_03_22_MacroTriggering/wiki
+**Previous Project to merge**
+https://gitlab.com/eloistree/2018_08_04_Module_MacroUtility
+Wiki with lot of info : https://gitlab.com/eloistree/2018_08_04_Module_MacroUtility/wikis/home
+https://gitlab.com/eloistree/2018_10_15_morsedetector
+https://gitlab.com/eloistree/2018_12_08_macropersistance
+https://gitlab.com/eloistree/2018_10_18_TapWithUsAPI
+https://gitlab.com/eloistree/2018_09_18_Module_MouseUtility
+https://gitlab.com/eloistree/2018_09_02_KillTheKeyboard
+https://gitlab.com/eloistree/2018_08_30_Module_FingersBoard -https://github.com/EloiStree/HelloTapWithUs/wiki/TapMap
+https://github.com/SpeechlessVoice
+https://github.com/SpeechlessVoice/SpeechlessVoiceUniversal
+https://github.com/SpeechlessVoice/SpeechlessVoiceAPI
+https://github.com/SpeechlessVoice/OpenAndTapToolbox
+https://github.com/SpeechlessVoice/OpenAndTapToolbox/wiki/HaHaTap_0HGameJam
+
+
+
 Code de mon Noodle Board avec Arduino:
 - https://gitlab.com/eloistree/2019_01_30_arduinoscripts/-/blob/master/2018_10_18_KeyboardUrgency/2018_10_18_KeyboardUrgency.ino?ref_type=heads
 - Code version UI: https://gitlab.com/eloistree/2018_08_30_Module_FingersBoard
@@ -434,3 +456,11 @@ Grosse archive de comment je configure OMI pour mes précédents jeux.
 Intéressant pour voir l'évolution de l'outil et sa grammaire d'écriture.
 - https://github.com/EloiStree/2020_03_13_ArchivedGameConfigOMI
   - Wow config: https://github.com/EloiStree/2020_03_13_ArchivedGameConfigOMI/tree/main/WOW
+
+
+
+Mes premiers scripts d'injection par Arduino Keyboard.h
+- https://github.com/EloiStree/2019_08_10_helloarduinoaskeyboardhack/tree/master
+
+Utiliser de la peinture pour faire un clavier  avec Arduino ?
+- https://github.com/EloiStree/2020_07_01_InoFiles
