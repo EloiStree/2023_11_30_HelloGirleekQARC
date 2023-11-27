@@ -135,7 +135,7 @@ Utiliser un bug pour créé plus d'option dans (Warframe)
 ![image](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/assets/20149493/c60fcd81-d308-4fa7-a40d-3120074d5b32)  
 https://www.youtube.com/watch?v=lFrcmJEwcUg   
 
-Facilité l'abilité à jouer à Age of Empire avec OMI et JOMI: 
+Facilité l'abilité à jouer à Age of Empire avec OMI et JOMI:   
 ![image](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/assets/20149493/139be04b-02a2-4b3a-87ea-07a9b89a2e3e)  
 https://www.youtube.com/watch?v=Exe8HK6lPH0&t=5716s  
 
@@ -246,9 +246,10 @@ Utiliser la Webcam comme entrée pour faire du Color Picking ou utiliser Vuforia
 Utiliser User32 et du code natif pour injected des touches dans une app avec SendMessage  
 ![image](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/assets/20149493/8aa9af3b-c00f-49a8-bc0c-398ba52deded)  
 
-Utiliser Google Sheet pour controller des PC sans server héberger.
-![image](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/assets/20149493/2774919d-9874-447c-8444-94ec3419d7bd)
+Utiliser Google Sheet pour controller des PC sans server héberger.  
+![image](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/assets/20149493/2774919d-9874-447c-8444-94ec3419d7bd)  
 
+ 
 
 ---------------------------------------
 
