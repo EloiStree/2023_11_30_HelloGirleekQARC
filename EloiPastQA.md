@@ -263,3 +263,42 @@ SCRCPY
 
 - https://github.com/Genymobile/scrcpy
 
+
+BLE 
+
+- Injecter des clés claviers et Gamepad
+- Note: XBox et PS5 remote
+
+
+-----------
+
+Python:
+- Plein de petit example Python: https://github.com/EloiStree/PythonExperiments
+- Lire et écrite serial port: https://github.com/EloiStree/2023_09_30_PythonToAndFromWindowSerial
+- Créé un Gamepad si MicroPython:
+  - https://github.com/EloiStree/2023_10_20_CircuitPythonToX360/tree/main/Code/2023_06_20_Draft
+- Une manière de allumer les pins d'un Rapsberry pi Pico avec TX/RX
+  - https://github.com/EloiStree/2023_06_29_MicroPythonUART2PinOnOff/blob/main/code.py
+- Créé un clavier midi pour 5-20€ sur 3cm
+  - https://github.com/EloiStree/2023_05_01_SeeedXiaoRP2040ToMidi
+- Utiliser JOMI avec Python UDP "Hello Script"
+  - https://github.com/EloiStree/2022_01_16_PythonHelloWorldJOMI/blob/main/HelloWorld.py 
+- Utiliser du MIDI pour simuler un joystick avec Raspberry pi pico
+  - https://github.com/EloiStree/2023_09_21_SimulateJoystickInputSearch/blob/main/Code/2023_09_22_MidiToJoystickSimulation/code.py
+ 
+- Roger Project:
+  - https://github.com/EloiStree/PythonExperiments/tree/main/2023_09_19_Roger_RemappingWithPython
+ 
+  
+-------------
+
+HID
+
+![image](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/assets/20149493/4c46d8f5-6a7d-4806-9d16-eda6ee2a54f8)
+https://youtu.be/__QZQEOG6tA
+
+--------------
+
+Window Adaptative
+
+Create input for Window Adaptive : https://learn.adafruit.com/diy-adaptive-game-controllers?view=all
