@@ -116,6 +116,8 @@ https://www.youtube.com/watch?v=vKi7ApsxXcY
 Controller un ordinateur par la tête et Vuforia:   
 ![image](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/assets/20149493/d6e419df-4dc6-4a92-8d3b-7e1caed64187)  
 https://www.youtube.com/watch?v=xmcsUvd2MYQ&t=34s  
+Source code: https://gitlab.com/eloistree/2018_09_18_Module_MouseUtility
+
 
 Créé vos outils de test en Unity via le réseau UDP:  
 ![image](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/assets/20149493/3dd79857-6b3b-4fb1-abe6-5194be13331d)  
@@ -400,7 +402,34 @@ https://en.softonic.com/downloads/device-drivers
 ### Past Git that could be useful ?
 
 
+Adb Utility:
+- Utiliser ADB pour faire des actions depuis Unity
+  - https://gitlab.com/eloistree/2019_06_03_adbutility
+
+
+Utiliser Tap with Us ?
+- https://gitlab.com/eloistree/2020_04_20_TapUtilityOnAndroid
 
 
 
+Première version du OMI qui executait des scripts AHK comme des bats cachés:
+- https://gitlab.com/eloistree/2019_03_22_macrotrigger
 
+Code de mon Noodle Board avec Arduino:
+- https://gitlab.com/eloistree/2019_01_30_arduinoscripts/-/blob/master/2018_10_18_KeyboardUrgency/2018_10_18_KeyboardUrgency.ino?ref_type=heads
+- Code version UI: https://gitlab.com/eloistree/2018_08_30_Module_FingersBoard
+
+Code de feux d'artifice par Arduino Uno en Bluetooth:
+- Script très très simple bonne example en arduino
+  - https://gitlab.com/eloistree/2018_12_21_hellohc06/-/blob/master/Release/HackYourXMas/LetterToPin.ino?ref_type=heads
+- Full project code et APK : https://gitlab.com/eloistree/2018_12_21_hellohc06
+
+
+Un très belle note sur le hack de la Xbox avec du Hardware:
+- https://github.com/EloiStree/2023_06_23_ArduinoToDroneAndXboxHardware/blob/main/FullNote.md
+
+
+Grosse archive de comment je configure OMI pour mes précédents jeux.
+Intéressant pour voir l'évolution de l'outil et sa grammaire d'écriture.
+- https://github.com/EloiStree/2020_03_13_ArchivedGameConfigOMI
+  - Wow config: https://github.com/EloiStree/2020_03_13_ArchivedGameConfigOMI/tree/main/WOW
