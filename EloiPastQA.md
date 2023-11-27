@@ -253,3 +253,13 @@ Utiliser Google Sheet pour controller des PC sans server héberger.
 
 ---------------------------------------
 
+ADB 
+
+- ADB Command Line 
+- Lynx Manager https://portal.lynx-r.com/downloads/item/12/download/latest
+- SideQuest https://sidequestvr.com
+
+SCRCPY
+
+- https://github.com/Genymobile/scrcpy
+
