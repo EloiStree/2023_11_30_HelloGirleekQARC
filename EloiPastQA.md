@@ -342,3 +342,38 @@ https://youtu.be/__QZQEOG6tA
 Window Adaptative
 
 Create input for Window Adaptive : https://learn.adafruit.com/diy-adaptive-game-controllers?view=all
+
+
+
+
+-----------------------
+
+
+Cheap Arcade Joystick
+
+![image](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/assets/20149493/8632d31a-730f-421c-b55b-85d692e9046a)
+
+
+
+-------------------
+
+In NDA Roger note that can be public
+
+![image](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/assets/20149493/73f4ea8f-2698-4d93-87ad-42278e2b4ed6)
+
+![image](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/assets/20149493/de961367-c0ad-46c1-b375-f57349791878)
+
+https://hitclic.fr/?rub=Sm95c3RpY2tzIGFuYWxvZ2lxdWVz
+
+![image](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/assets/20149493/25b15edf-24bc-4220-9883-1122ee267727)
+https://www.hackster.io/esp32beans/usbnunchuck-mouse-18de24
+https://github.com/esp32beans/USBnunchuck_mouse
+
+Python HID lib: `import usb_hid`
+
+
+Use Vjoy as device driver:
+https://github.com/shauleiz/vJoy
+https://sourceforge.net/projects/vjoystick/
+https://en.softonic.com/downloads/device-drivers
+
