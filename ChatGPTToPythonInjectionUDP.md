@@ -26,6 +26,14 @@ https://github.com/PJSoftCo/VGamepad
 
 
 
-Must have pour débugger et remapper les joysticks:  
-![image](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/assets/20149493/bd6f5e4a-de1d-4c02-92d6-1eb120c2142b)
-https://www.x360ce.com  
+Must have pour débugger et remapper les joysticks:    
+![image](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/assets/20149493/bd6f5e4a-de1d-4c02-92d6-1eb120c2142b)  
+https://www.x360ce.com    
+
+
+Debugger avec un outil window:  
+![image](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/assets/20149493/3af4dfc9-e586-4870-a110-7d18579d8016)  
+
+
+Debug depuis un navigateur:  
+https://hardwaretester.com/gamepad    
