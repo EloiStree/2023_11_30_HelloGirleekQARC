@@ -17,3 +17,15 @@ Uninstall python ?
 Désintall l'application avec window et flush ce dossier
 `%LOCALAPPDATA%\pip` delete
 `%LOCALAPPDATA%\Microsoft\WindowsApps` look for python 
+
+
+pip install vgamepad    
+Nefarius Software Solutions  
+![image](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/assets/20149493/0d717da7-a138-404e-bba5-ea7238d65e54)
+https://github.com/PJSoftCo/VGamepad
+
+
+
+Must have pour débugger et remapper les joysticks:  
+![image](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/assets/20149493/bd6f5e4a-de1d-4c02-92d6-1eb120c2142b)
+https://www.x360ce.com  
