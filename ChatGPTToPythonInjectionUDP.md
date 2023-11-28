@@ -10,3 +10,10 @@ vJoy :
 
 Depuis le site web: https://www.python.org
 Depuis window store : https://www.microsoft.com/store/productId/9NCVDN91XZQP?ocid=pdpshare
+
+
+Uninstall python ?
+
+Désintall l'application avec window et flush ce dossier
+`%LOCALAPPDATA%\pip` delete
+`%LOCALAPPDATA%\Microsoft\WindowsApps` look for python 
