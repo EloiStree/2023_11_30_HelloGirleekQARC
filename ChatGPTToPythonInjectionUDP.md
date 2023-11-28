@@ -37,3 +37,4 @@ Debugger avec un outil window:
 
 Debug depuis un navigateur:  
 https://hardwaretester.com/gamepad    
+![image](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/assets/20149493/fef4dd92-ff41-4022-91de-60f340a93fd8)
