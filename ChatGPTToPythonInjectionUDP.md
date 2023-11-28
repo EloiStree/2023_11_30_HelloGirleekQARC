@@ -38,3 +38,16 @@ Debugger avec un outil window:
 Debug depuis un navigateur:  
 https://hardwaretester.com/gamepad    
 ![image](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/assets/20149493/fef4dd92-ff41-4022-91de-60f340a93fd8)
+
+
+-----------
+
+
+Pour le midi il faut simuler un clavier virtuel.
+
+- https://www.music.mcgill.ca/~gary/rtmidi/
+- http://www.tobias-erichsen.de/software/rtpmidi.html
+- https://www.tobias-erichsen.de/software/loopmidi.html
+- https://www.tobias-erichsen.de/software/virtualmidi.html
+
+- ![image](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/assets/20149493/a33210fe-01f1-4d33-80cd-8ef9a1b3fb40)
