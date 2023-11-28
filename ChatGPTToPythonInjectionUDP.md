@@ -51,3 +51,9 @@ Pour le midi il faut simuler un clavier virtuel.
 - https://www.tobias-erichsen.de/software/virtualmidi.html
 
 - ![image](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/assets/20149493/a33210fe-01f1-4d33-80cd-8ef9a1b3fb40)
+
+
+
+https://github.com/mik3y/pymidi
+ pip install pymidi
+poetry install pymidi
