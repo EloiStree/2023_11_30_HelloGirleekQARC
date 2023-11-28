@@ -26,3 +26,9 @@ Allons-y! :)
 ### Objectif de la journée
 
 Le but de cette journée est de faire découvrir ce qu'est un outil de création de jeux vidéo : le game engine. Pour cela, nous allons apprendre à créer une voiture RC et l'exporter pour jouer ensemble sur le projet principal.
+
+
+-------------------
+
+ Télécharger le format de la voiture dans votre projet:  
+https://github.com/EloiStree/2023_11_30_HelloGirleekQARC_PackageCarRC.git  
