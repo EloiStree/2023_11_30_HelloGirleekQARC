@@ -56,4 +56,6 @@ Liens amazon:
   - HC06 & Hc05 : https://amzn.to/46ssGZ2
   - TTL USB: https://amzn.to/3JC14GZ
 
-
+Download the games:  
+- https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/releases/tag/V0  
+  
