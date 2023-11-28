@@ -42,11 +42,11 @@ https://youtu.be/xupBsPASps0
 
 
 
-Workshop: [https://github.com/EloiStree/2023_11_30_HelloGirleekQARC ](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC ) 
-Project Code: [https://github.com/EloiStree/2023_11_22_HelloCarRCUnity](https://github.com/EloiStree/2023_11_22_HelloCarRCUnity) 
-Shared this video: [https://youtu.be/xupBsPASps0](https://youtu.be/xupBsPASps0)
+Workshop: [https://github.com/EloiStree/2023_11_30_HelloGirleekQARC ](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC )   
+Project Code: [https://github.com/EloiStree/2023_11_22_HelloCarRCUnity](https://github.com/EloiStree/2023_11_22_HelloCarRCUnity)   
+Shared this video: [https://youtu.be/xupBsPASps0](https://youtu.be/xupBsPASps0)  
 
-[Workshop](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC ) [Project Code](https://github.com/EloiStree/2023_11_22_HelloCarRCUnity) [Shared this video](https://youtu.be/xupBsPASps0)
+[Workshop](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC ) - [Project Code](https://github.com/EloiStree/2023_11_22_HelloCarRCUnity) - [Shared this video](https://youtu.be/xupBsPASps0)  
 
 
 ---------------
