@@ -43,8 +43,9 @@ https://youtu.be/xupBsPASps0
 - **Day 1: 10 Seconds Ninja**: [Lire ici](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/blob/main/Day1_10SecondsNinja.md)
 - **Day 1: Hello QA RC:** [Lire ici](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/blob/main/Day2_BonjourUnity3D.md)
 - **Day 2: Hello Unity:** [Lire ici](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/blob/main/Day2_BonjourUnity3D.md)
-- **Day 3: Script and Shader:** [Lire ici](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/blob/main/Day3_ScriptEtShaderGraph.md)
-Note: [Où commencer pour apprendre le Python ?](https://chat.openai.com/c/71831b11-6a1b-4504-a6f2-5df59797d603)
+- **Day 3: Script and Shader:** [Lire ici](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/blob/main/Day3_ScriptEtShaderGraph.md)  
+Note: [Où commencer pour apprendre le Python ?](https://chat.openai.com/c/71831b11-6a1b-4504-a6f2-5df59797d603)  
+
 
 Workshop: [https://github.com/EloiStree/2023_11_30_HelloGirleekQARC ](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC )  
 Project Code: [https://github.com/EloiStree/2023_11_22_HelloCarRCUnity](https://github.com/EloiStree/2023_11_22_HelloCarRCUnity)  
