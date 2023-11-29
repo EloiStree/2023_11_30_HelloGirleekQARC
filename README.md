@@ -38,6 +38,14 @@ https://youtu.be/xupBsPASps0
 - **Weekend :** Temps de pause, avec optionnellement l'opportunité d'apprendre sur le temps libre des participants.
 - **Lundi :** Apprendre les bases du scripting en Unity3D et de Shader Graph.
 
+
+**Redirection vers les excerices**
+- **Day 1: 10 Seconds Ninja**: [Lire ici](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/blob/main/Day1_10SecondsNinja.md)
+- **Day 1: Hello QA RC:** [Lire ici](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/blob/main/Day2_BonjourUnity3D.md)
+- **Day 2: Hello Unity:** [Lire ici](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/blob/main/Day2_BonjourUnity3D.md)
+- **Day 3: Script and Shader:** [Lire ici](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/blob/main/Day3_ScriptEtShaderGraph.md)
+
+
 Workshop: [https://github.com/EloiStree/2023_11_30_HelloGirleekQARC ](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC )  
 Project Code: [https://github.com/EloiStree/2023_11_22_HelloCarRCUnity](https://github.com/EloiStree/2023_11_22_HelloCarRCUnity)  
 Shared this video: [https://youtu.be/xupBsPASps0](https://youtu.be/xupBsPASps0)
