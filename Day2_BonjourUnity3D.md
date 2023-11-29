@@ -1,4 +1,4 @@
-# Bonjour à vous et bienvenue sur notre atelier du 2ème jour.
+# Bonjour à vous et bienvenue à notre atelier du 2ème jour.
 
 Hier, nous avons appris à injecter des touches de clavier pour jouer à un jeu de voiture sous Unity3D. Aujourd'hui, nous allons apprendre à personnaliser notre voiture en Unity3D.
 
@@ -27,8 +27,7 @@ Allons-y! :)
 
 Le but de cette journée est de faire découvrir ce qu'est un outil de création de jeux vidéo : le game engine. Pour cela, nous allons apprendre à créer une voiture RC et l'exporter pour jouer ensemble sur le projet principal.
 
+---
 
--------------------
-
- Télécharger le format de la voiture dans votre projet:  
-https://github.com/EloiStree/2023_11_30_HelloGirleekQARC_PackageCarRC.git  
+Téléchargez le format de la voiture dans votre projet :  
+[Package Car RC](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC_PackageCarRC.git)

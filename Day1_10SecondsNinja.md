@@ -4,46 +4,34 @@ https://store.steampowered.com/app/271670/10_Second_Ninja/
 
 ## Introduction courte
 
-Bonjour à vous, dans cette atelier, vous allons apprendre à tester un jeu à l'aide de touches clavier.
-Pour cela nous allons scripter le jeu "10 sconds Ninja".
+Bonjour à vous, dans cet atelier, nous allons apprendre à tester un jeu à l'aide de touches clavier. Pour cela, nous allons scripter le jeu "10 seconds Ninja".
 
+## Introduction longue
 
+Pour simuler des touches clavier, vous avez de nombreuses possibilités en utilisant de nombreux langages.
 
-## Introduction Long 
+Par exemple, à l'époque, j'avais choisi d'utiliser Java car c'est un langage interprété qui tourne sur toutes les plates-formes. Voir #JOMI.
+- L'avantage de Java est qu'il tourne partout, du moins c'était la promesse.
+  - La licence de Java a changé avec le temps, et il n'est plus installé par défaut sur les machines.
+- Le désavantage d'un langage universel est que vous ne pouvez pas effectuer des actions qui sont natives à une plate-forme.
 
-Pour simuler des touches claviers vous avez de nombreuses possibilité utilsant de nombreux languages.
+Pour être plus natif à la plate-forme, j'ai utilisé des bibliothèques C# pour simuler des touches. Cela accélère le développement de l'application... Mais très vite, on se retrouve limité.
 
-Par example, à l'époque j'avais choisit d'utiliesr Java car c'est une language interprété qui tourne sur tout les les platforms.
-Voir #JOMI 
-- L'avantage de Java est qu'il tourne partout. Du moins c'était la promesse.
-  - La license de Java à changer avec le temps et il n'est plus installé par défaut sur les machines.
-- Le désavangate d'un language universel c'est que vous ne pouvez pas faire des actions qui sont native à une platform. 
-  
-Pour être plus native au platform, j'ai utiliser des librairies C# pour simulers des touches. 
-Cela accélaire le développement de l'application... Mais très vite on se retrouve limité 
+Vous pouvez donc aller sous Windows au plus bas et utiliser `User32.dll` et autres. Celles-ci vous permettent de simuler des touches clavier mais demandent de comprendre beaucoup de code technique et vétuste.
 
-Vous pouvez donc allez sous Window au plus bas et utiliser `User32.dll` et autres.
-Celle-ci vous permet de simuler des touches claviers mais demande de comprendre beaucoup de code technique et vétuste.
+Suite à cette recherche dans les archives de l'OS Windows, j'ai découvert que l'on pouvait faire croire à une application qu'elle a reçu une touche clavier. Voir : #SendMessage. Cela rend la chose très pratique, car on peut continuer de travailler pendant que l'on simule des touches clavier. Cette méthode est utilisée pour faire du #multiboxing.
 
-Suit à cette recherche dans les archives de l'OS window, j'ai découvert que l'on pouvait faire croire à une application qu'elle à reçu un touche clavier Voir: #SendMessage. Cela rend la chose très pratique que l'on peu continuer de travailler pendant que l'on simule des touches claviers.
-Cette méthode est utiliser pour faire du #multiboxing .
+Simuler du logiciel, c'est stimulant mais pas très universel, car le code ne tournera que sur la plate-forme ciblée. Pour un hack un peu plus universel, vous avez la possibilité d'utiliser des Arduinos et du Bluetooth. C'est d'ailleurs une méthode de hacking très connue car elle ne nécessite pas de droits administrateurs. Mais utiliser du hardware est un autre cours pour un autre atelier.
 
-Simuler du logiciel, c'est stimulant mais pas très universel car le code ne tournera que sur la platforme ciblé.
-Vous avez pour hack un peu plus universel, la posssibiltié d'utiliser des arduinos et du bluetooths.
-C'est d'ailleur une méthode de hacking très connu car elle ne nécessite pas de droit administrateur.
-Mais utiliser du hardware est un autre cours  pour un autre atelier.
+Touches par défaut du jeu :
 
-
-
-Touche par défault du jeu
-
-X = Validate
-X = Sword
-Z = Shuriken
-C = Next Level
-R= Retry
-Arrow= Move Left Right and Jump
-Escape= Menu
+- X = Valider
+- X = Épée
+- Z = Shuriken
+- C = Niveau suivant
+- R = Réessayer
+- Flèches = Déplacer à gauche, à droite et sauter
+- Échap = Menu
 
 
 
@@ -111,10 +99,10 @@ pyautogui.keyUp('a')
 
 ### import wintypes 
 
-Meilleur example de simulation de touche window native.
-Ne perder par le code ;) 
+Meilleur exemple de simulation de touche Windows native.
+Ne perdez pas le code ;)
 
-Attention, c'est très proche de la machine est donc un peu plus indigeste à lire.
+Attention, c'est très proche de la machine et donc un peu plus indigeste à lire.
 
 
 ``` py
@@ -238,12 +226,9 @@ if __name__ == "__main__":
 
 ### SendMessage 
  
-Sur Window, la fonction SendMessage permet d'envoyé des informations diverses à une application.  
-Dans c'est information, vous avez la capacité d'envoyé des touches.  
+Sur Windows, la fonction `SendMessage` permet d'envoyer des informations diverses à une application. Dans ces informations, vous avez la capacité d'envoyer des touches.
 
-L'oridnateur étant une machine qui ne fait que calculer.  
-Plus vous vous rapprochez d'elle plus vous devrez utilsier des nombres hexadécimaux et du binaires`.  
-Tel que `VK_X = 0x58`  
+L'ordinateur étant une machine qui ne fait que calculer, plus vous vous rapprochez d'elle, plus vous devrez utiliser des nombres hexadécimaux et du binaire. Tel que `VK_X = 0x58`.
 
 
 
@@ -301,14 +286,11 @@ if __name__ == "__main__":
 ```
 
 
-# Lire des touches avec pythons
+# Lire des touches avec Python
 
-C'est bien beau de simuler des touches mais faut il encore savoir les lire.
-Voici deux trois outils pour lire des touches.
+C'est bien beau de simuler des touches, mais il faut encore savoir les lire. Voici deux-trois outils pour lire des touches.
 
-
-
-## Ecouter à l'état d'une touche
+## Écouter l'état d'une touche
 
 
 ``` py
@@ -341,10 +323,9 @@ ecouter_touche(touche_a_ecouter)
 ```
 
 
-### Utiliser un system d'abonnement (hook)
+### Utiliser un système d'abonnement (hook)
 
-Ecouter à l'état d'un touche peu laisser échappé un frappe rapide.
-Des fois il est préférable de s'abonner à son changement directement.
+Écouter l'état d'une touche peut laisser échapper une frappe rapide. Parfois, il est préférable de s'abonner à son changement directement.
 
 
 ``` py
@@ -387,13 +368,12 @@ hook_thread.join()
 ```
 
 
-### Ecouter aux touches peut-être illégale.
+### Écouter les touches peut être illégal.
 
-Eviement notre but ici est de créé des outils de testing.
-Mais il faut prendre en compte que une application ne devrait pas écouter les touches de l'utilisateur.
+Évidemment, notre but ici est de créer des outils de test. Cependant, il faut prendre en compte que une application ne devrait pas écouter les touches de l'utilisateur.
 
-Si vous voulez écotuez au touche seulement dans votre appliacation.
-L'utilisation de pygame peut être plus adapter.
+Si vous voulez écouter les touches seulement dans votre application, l'utilisation de pygame peut être plus adaptée.
+
 
 
 ``` py
@@ -442,18 +422,16 @@ finally:
 
 # JOMI
 
-Java Open macro Input est une application portative en Java qui me permet via de l'UDP d'injecter des touches clavier.
-Très utile, elle est controllable depuis un réseaux UDP. Pour cela vous avez besoin d'un adresse IP et d'un port.
+Java Open Macro Input est une application portable en Java qui me permet, via de l'UDP, d'injecter des touches clavier. Très utile, elle est contrôlable depuis un réseau UDP. Pour cela, vous avez besoin d'une adresse IP et d'un port.
 
+Vous pouvez trouver une version du logiciel dans ce dépôt Git, ou en ligne : [![Image JOMI](https://camo.githubusercontent.com/0acbf03803f5322f2d2581b1819c5e6b44df1a3eb2ac57618d8b4af6473319ee/687474703a2f2f696d672e796f75747562652e636f6d2f76692f7a4e6f45353646444748412f6d617872657364656661756c742e6a7067)](https://github.com/EloiStree/2020_04_10_JavaOpenMacroInputRuntime)
 
-Vous pouvez trouver un version du logiciel dans ce git, ou en ligne:
-[![Image JOMI](https://camo.githubusercontent.com/0acbf03803f5322f2d2581b1819c5e6b44df1a3eb2ac57618d8b4af6473319ee/687474703a2f2f696d672e796f75747562652e636f6d2f76692f7a4e6f45353646444748412f6d617872657364656661756c742e6a7067)](https://github.com/EloiStree/2020_04_10_JavaOpenMacroInputRuntime
-)
-https://github.com/EloiStree/2020_04_10_JavaOpenMacroInputRuntime
+[Repository GitHub](https://github.com/EloiStree/2020_04_10_JavaOpenMacroInputRuntime)
+
 ![Alt text](image.png)
 
-Voici un example de comment l'utiliser en Python via UDP:
-Source:https://github.com/EloiStree/2020_04_10_JavaOpenMacroInputRuntime/blob/master/HelloWorld.py
+Voici un exemple de comment l'utiliser en Python via UDP : [Source](https://github.com/EloiStree/2020_04_10_JavaOpenMacroInputRuntime/blob/master/HelloWorld.py)
+
 
 ``` py
 

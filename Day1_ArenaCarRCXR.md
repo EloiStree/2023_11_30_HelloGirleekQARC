@@ -1,79 +1,69 @@
 ![image](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/assets/20149493/4cb8726b-02b7-4b3f-a912-e1d2d40a8f82)
--------------------------------------
 
-Maintenant que vous avez appris à utiliser Python dans "10 seconds Ninja", je vous invite à participer au jeu de cette atelier.
+# Participer au Jeu "HelloCarRCUnity" - Instructions
 
-> Ce jeu est la trame de cette atelier, je vous invite à traivailler sur le sujet si vous etes en avance ou lors de vos temps libre.
+Maintenant que vous avez appris à utiliser Python dans "10 seconds Ninja", je vous invite à participer au jeu de cet atelier.
 
+> Ce jeu est le fil conducteur de cet atelier. Je vous invite à travailler sur le sujet si vous êtes en avance ou lors de vos temps libres.
 
-Sur une clé USB ou sur le Git, vous pouvez trouvez une release d'un jeu Unity:  
-https://github.com/EloiStree/2023_11_22_HelloCarRCUnity/tags  
-Ainsi que son code source si cela vous intéresse:   
-https://github.com/EloiStree/2023_11_22_HelloCarRCUnity  
+Sur une clé USB ou sur le Git, vous pouvez trouver une release d'un jeu Unity :  
+[HelloCarRCUnity Releases](https://github.com/EloiStree/2023_11_22_HelloCarRCUnity/tags)  
+Ainsi que son code source si cela vous intéresse :   
+[Code source HelloCarRCUnity](https://github.com/EloiStree/2023_11_22_HelloCarRCUnity)  
 
+L'idée est que le jeu est jouable à 22+ joueurs mais n'est pas un jeu en réseau. Chaque joueur dans le jeu correspond à une entrée qui est hackable en tant que testeur de jeux vidéo.
 
-L'idée est que le jeux est jouable à 22+ joueurs mais n'est pas un jeu en réseaux.
-Chaque joueur dans le jeu correspond à une entrée qui est hackable en tant que testeur de jeux vidéo.
+Pour jouer au jeu, rien de plus simple. Il vous faut simuler des touches de manettes Xbox et de joysticks via vJoy :) Entraînez-vous localement à contrôler les voitures du jeu pour apprendre.
 
+Mais le jeu est une arène composée de deux équipes.
 
-Pour jouer aux jeux rien de plus simple, il vous faut simuler des touches de manettes Xbox et de joysticks via vJoy :)
-Entrainez vous localement à controller les voitures du jeux, pour apprendre.
+Rouge contre bleu, il vous faut pousser la boule jaune sur la boule du camp adverse pour gagner des points. Le premier à 5 gagne une manche. L'équipe gagnante est la meilleure des 5 manches.
 
-Mais le jeu une arène composé de deux équipes.
+### Comment jouer au jeu ensemble ?
 
-Rouge contre bleu, il vous faut pousser la boule jaune dans sur la boule du camp adverse pour gagner des points.
-Le premier à 5 gagne une manche. L'équipe gagnant est le meilleur des 5 manches.
+L'écran de jeu est projeté sur l'écran de l'enseignant. Il n'y a donc que deux moyens pour contrôler le jeu : par réseau (UDP, WebSocket, autre proposé) ou par matériel (Arduino, Raspberry Pi Pico, Arcade board).
 
-
-
-### Comment jouer aux jeux ensemble ?
-
-L'écran de jeu est projeté sur l'écran de l'enseignant.
-Il n'y a donc pour controller le jeu que deux moyens par réseaux (UDP, Websocket, autre proposé) ou par hardware (Arduino, Raspberry Pi Pico, Arcade board).
-
-> Attention, c'est la premier version du jeu.
-> Et le jeu tourne sur mon ordinateur de travail. 
-> - Je vous fais confiance pour cette atelier de ne pas à m'obliger tout installer sur une machine virtuelle.
+> Attention, c'est la première version du jeu.
+> Et le jeu tourne sur mon ordinateur de travail.
+> - Je vous fais confiance pour cette atelier de ne pas m'obliger à tout installer sur une machine virtuelle.
 > - Et je vous fais confiance pour ne pas tricher.
-> - Le moindre doute de triche ou lecture d'un code qui n'est pas dans ces conditions est égale à une manche perdue.
+> - Le moindre doute de triche ou lecture d'un code qui n'est pas dans ces conditions est égal à une manche perdue.
 
+Plusieurs méthodes.
+La principale :
+- Créez en équipe un/des scripts Python propres à votre équipe que je ferai tourner sur le PC pendant les matchs.
 
-Plusieur méthode.
-La principale:
-- Créé en équipe un/des scripts pythons propre à votre équipe que je ferais tourner sur le PC durant les matches.
-
-Les méthode secondaires:
-- utiliser des codes que je fournis en example du cours via UDP our Websocket. 
-  - Ils tourneront sur l'ordinateur projecter sur l'écran.
-- Utiliser des macros par UDP que je prépare via UDP sur la suite Open Macro Input.
+Les méthodes secondaires :
+- Utilisez des codes que je fournis en exemple du cours via UDP ou WebSocket.
+  - Ils tourneront sur l'ordinateur projeté sur l'écran.
+- Utilisez des macros par UDP que je prépare via UDP sur la suite Open Macro Input.
   - Utiliser JOMI pour le clavier
-  - UDP2vJoy pour vjoy
+  - UDP2vJoy pour vJoy
   - XOMI pour les manettes Xbox  
-  - Note: Je ne les lance que si un étudiant décide de l'utiliser.
-- Utiliser du hardware avec un Arduino ou un Raspverry Pi Pico
+  - Note : Je ne les lance que si un étudiant décide de l'utiliser.
+- Utilisez du matériel avec un Arduino ou un Raspberry Pi Pico
 
-Note: J'ai amené du matériel que vous pouvez utiliser sur vos machines
+Note : J'ai amené du matériel que vous pouvez utiliser sur vos machines
 - Joystick d'arcade Chinois  
 - Des manettes Xbox
-- Des claviers pour doight
-- Pour les experts: Deux Brook avec Arduino + HC06
+- Des claviers pour doigts
+- Pour les experts : Deux Brook avec Arduino + HC06
 
-Pour éviter la triche un minimum sur les examples de cours, un mot de passe est donné à chaque équipe.
+Pour éviter la triche un minimum sur les exemples de cours, un mot de passe est donné à chaque équipe.
 
+**Important : règles de distribution**
 
-**Important: règles de distribution**
-
-> Les scripts des rouges sont éxécutés avant les scripts des bleu pour permet au rouge d'émuler la Xbox 1 et 2.
+> Les scripts des rouges sont exécutés avant les scripts des bleus pour permettre au rouge d'émuler la Xbox 1 et 2.
 
 Une équipe n'a droit qu'à deux manettes Xbox et 8 joysticks vJoy.
 
-L'équipe rouge à 
-- Le controller Xbox 1 et 2
+L'équipe rouge a 
+- Le contrôleur Xbox 1 et 2
 - Les vjoys de 1-8
 - L'injection de clavier Alpha 2 3 4 5
 
-L'équipe bleu à 
-- Le controller Xbox 3 et 4 (executer arpès le premier script)
+L'équipe bleue a 
+- Le contrôleur Xbox 3 et 4 (exécuter après le premier script)
 - Les vjoys de 9-16
 - L'injection de clavier Numpad 2 3 4 5
 
@@ -82,10 +72,10 @@ L'équipe bleu à
 ## UDP & Websocket
 
 
-Pour pouvoir communiquer avec les scripts qui tournent sur le PC, je vous invite à regarder les deux examples suivant sur comment généré un server UDP ou un server Websocket. Asszez simple.
+Pour pouvoir communiquer avec les scripts qui tournent sur le PC, je vous invite à regarder les deux exemples suivants sur comment générer un serveur UDP ou un serveur WebSocket. Assez simple.
 
+Comment créer un serveur UDP qui écoute les messages entrants.
 
-Comment créé un server UDP qui écoute au message entrant.
 ``` py 
 
 import socket
@@ -107,8 +97,7 @@ while True:
 
 ``` 
 
-
-Example de comment créé un server en Websocket 
+Exemple de comment créer un serveur en WebSocket.
 
 ``` py
 
@@ -137,8 +126,8 @@ asyncio.get_event_loop().run_forever()
 ```
 
 
-Example de comment faire un code extérieur à la logic pour recevoir des commands
-Nom du fichier: stringtoaction.py
+Exemple de comment faire un code externe à la logique pour recevoir des commandes.
+Nom du fichier : `stringtoaction.py`
 
 ``` py 
 
@@ -184,9 +173,10 @@ def process_message(message):
 ```
 
 
-Vous pouvez aussi utiliser une methode plus classique avec un server MQTT si vous savez comment configuré un Broker
+Vous pouvez aussi utiliser une méthode plus classique avec un serveur MQTT si vous savez comment configurer un broker.
 
-Code pour ce connecter à un server Python et écouter tout les messages
+Code pour se connecter à un serveur Python et écouter tous les messages.
+
 
 ``` py
 
