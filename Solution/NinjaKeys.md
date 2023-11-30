@@ -6,6 +6,7 @@ import pyautogui
 import time
 
 time.sleep(5)
+#Commentaire
 print("Pousse sur R pour recommencer")
 pyautogui.keyDown('r')
 pyautogui.keyUp('r')
