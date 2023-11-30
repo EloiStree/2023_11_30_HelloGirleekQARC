@@ -152,14 +152,14 @@ def manage_command_line(command_line):
                 if vjoy_devices[joystick_index] != None:
                     
 
-"""                    
+                    """                    
                     if lenght_data == 2:
                         if tokens[1]=='R' or tokens[1]=='r':
                             reset_joystick_to_default(vjoy_devices[joystick_index])
                         if tokens[1].upper()=='RESET':
                             for item in vjoy_devices:
                                 reset_joystick_to_default(item)
-"""
+                    """
 
                         
                     if lenght_data == 3:
