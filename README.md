@@ -41,7 +41,8 @@ https://youtu.be/xupBsPASps0
 
 **Redirection vers les excerices**
 - **Day 1: 10 Seconds Ninja**: [Lire ici](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/blob/main/Day1_10SecondsNinja.md)
-- **Day 1: Hello QA RC:** [Lire ici](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/blob/main/Day2_BonjourUnity3D.md)
+- **Day 1: Hello QA RC:** [Lire ici](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/blob/main/Day1_ArenaCarRCXR.md)
+  - **Day 1: Easier:** [Lice Ici](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/blob/main/Day1_vJoyMultiplayerEasier.md)
 - **Day 2: Hello Unity:** [Lire ici](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/blob/main/Day2_BonjourUnity3D.md)
 - **Day 3: Script and Shader:** [Lire ici](https://github.com/EloiStree/2023_11_30_HelloGirleekQARC/blob/main/Day3_ScriptEtShaderGraph.md)  
 Note: [Où commencer pour apprendre le Python ?](https://chat.openai.com/share/37051ecf-53c5-4798-84c3-3d3b91ee69bd)  
