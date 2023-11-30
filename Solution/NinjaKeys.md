@@ -6,7 +6,11 @@ import pyautogui
 import time
 
 time.sleep(5)
-#Commentaire
+# Commentaire sur une ligne
+"""
+Commentaire sur plusieur
+ligne
+"""
 print("Pousse sur R pour recommencer")
 pyautogui.keyDown('r')
 pyautogui.keyUp('r')
