@@ -1,5 +1,7 @@
 ![WIP](https://github.com/EloiStree/EloiStree/blob/master/Images/WIP.png)
 
+Discord Eloi: [https://eloistree.github.io/r/discord](https://eloistree.github.io/r/discord)
+
 
 
 ---------------
