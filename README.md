@@ -1,5 +1,32 @@
 ![WIP](https://github.com/EloiStree/EloiStree/blob/master/Images/WIP.png)
 
+---------------
+# Temporaire
+
+## Day 3
+
+Cours OBS & Record: https://github.com/EloiStree/2023_12_01_HelloLocalizationQATestingOMI/blob/main/Guide.md
+
+## Day 2
+
+Outil à télécharger pour le cours: https://github.com/EloiStree/2023_12_01_CarRCExample
+
+Des questions, Discord Eloi:
+[https://eloistree.github.io/r/discord](https://eloistree.github.io/r/discord)
+
+## Event:
+
+- [Global Game Jam (Namur) fin Janvier](https://globalgamejam.org)
+- [Citizens Of Wallonia (Charleroi) 10 Mars](https://www.citizensofwallonia.be)
+- [Ludum Dare (online) 12 Avril](https://ludumdare.com)
+- [Brotaru (premier lundi du mois)](https://www.facebook.com/bxl.otaru/)
+
+
+## Note
+
+- https://www.walga.be
+- https://smartbe.be
+
 ---
 
 # Hello QA RC
