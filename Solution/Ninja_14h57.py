@@ -7,7 +7,9 @@ etat_precedent=False
 etat_actuel=False
 
 def double_saut():
+
     pyautogui.keyDown('up')
+    time.sleep(0.05)
     pyautogui.keyUp('up')
     time.sleep(0.1)
     pyautogui.keyDown('up')
@@ -52,7 +54,7 @@ while True:
     etat_actuel= keyboard.is_pressed('space')
     
     print(".")
-    time.sleep(0.1)
+    time.sleep(2)
     # True  False   not True False
     if etat_precedent != etat_actuel:
         if etat_actuel==True:
